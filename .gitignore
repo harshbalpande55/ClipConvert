@@ -1,0 +1,4 @@
+/auth_service/.env
+/converter_service/.env
+/frontend_service/.env
+/gateway_service/.env
