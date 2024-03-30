@@ -5,4 +5,8 @@ Converting mp4 videos to mp3 in a microservices architecture.
 * Users can easily upload videos, monitor conversion progress and download the converted audio files once ready, all through a user-friendly interface.
 ## Architecture:
 ![image](https://github.com/harshbalpande55/video-to-audio-converter/assets/55752742/5ec0c20f-853b-49c6-910f-9c8035dc8081)
+## Demo Video:
+https://github.com/harshbalpande55/video-to-audio-converter/assets/55752742/82e4831b-d887-474b-ba7c-b91fb7471c6a
+
+
 
